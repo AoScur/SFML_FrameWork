@@ -1,7 +1,7 @@
 #pragma once
 #include <SFML/Graphics.hpp>
 #include <list>
-#include "/Git/SFML-framework/SFML-framework/GameObject/Object.h"
+#include "../GameObject/Object.h"
 
 
 using namespace sf;
